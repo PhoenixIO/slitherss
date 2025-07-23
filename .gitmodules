@@ -1,6 +1,6 @@
 [submodule "third_party/websocketpp"]
 	path = third_party/websocketpp
-	url = git://github.com/zaphoyd/websocketpp
+	url = https://github.com/zaphoyd/websocketpp
 [submodule "cmake/tooling-cmake-util"]
 	path = cmake/tooling-cmake-util
 	url = https://github.com/polysquare/tooling-cmake-util
